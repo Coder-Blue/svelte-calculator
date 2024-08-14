@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Outfit:wght@100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  @apply m-0 h-screen w-screen overflow-hidden bg-transparent font-outfit;
+}
+
+button {
+  -webkit-backdrop-filter: blur(4px);
+}
+
+.active-button {
+  @apply bg-[rgba(207,130,5,0.7)];
+}
+
+.calculator {
+  -webkit-backdrop-filter: blur(4px);
+}
+
+.display {
+  -webkit-backdrop-filter: blur(4px);
+}
+
+.span-3 {
+  @apply col-[span_3];
+}
