@@ -33,6 +33,7 @@ bunx tauri dev
 - Svelte 5 Rune (Still in testing but it works so good on this project).
 - TalwindCSS for styling the UI.
 - Tauri V2 (Cross-platform/Memory Efficiency/Fast web app)
+- Tauri Windows Vibrancy to give the users the native window's feeling.
 
 ## Cautious
 
