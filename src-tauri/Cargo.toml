@@ -2,7 +2,7 @@
 name = "svelte-calculator"
 version = "0.2.0"
 description = "Máy tính Svelte"
-authors = ["Noah"]
+authors = ["Noah Trần"]
 license = "MIT"
 repository = ""
 edition = "2021"
