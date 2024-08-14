@@ -1,6 +1,5 @@
 node_modules
 bun.lockb
-.vscode
 
 # Output
 .output
