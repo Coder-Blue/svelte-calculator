@@ -18,10 +18,10 @@ npm install -D @tauri-apps/cli@next
 bun add -D @tauri-apps/cli@next
 
 #and
-npx tauri dev
+npx tauri init
 
 #or
-bunx tauri dev
+bunx tauri init
 ```
 
 - Everything you need to know about a Svelte Project is this website [svelte.dev](https://svelte.dev/)
